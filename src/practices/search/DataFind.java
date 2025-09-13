@@ -1,4 +1,4 @@
-package algorithm.search;
+package practices.search;
 
 import lombok.NoArgsConstructor;
 
