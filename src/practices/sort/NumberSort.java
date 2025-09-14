@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Collectors;
 
-public class Sort2 {
+public class NumberSort {
   public static void main(String[] args) {
     // 1. 임의의 정수 20개 생성 (범위: 1~100)
     List<Integer> numbers = new Random()
